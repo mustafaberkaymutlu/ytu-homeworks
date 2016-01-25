@@ -7,7 +7,7 @@ Included classes are:
   - Introduction to Mobile Programming -- 2015-2016
 
 ## Copyright and license
-Copyright (C) 2013-2016 Mustafa Berkay Mutlu. This repository is released under the GNU General Public Lisence v3. See the [LICENSE](LICENSE.md) file for license rights and limitations.
+Copyright (C) 2013-2016 Mustafa Berkay Mutlu. This repository is released under the GNU General Public Lisence v3. See the [LICENSE](LICENSE) file for license rights and limitations.
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
